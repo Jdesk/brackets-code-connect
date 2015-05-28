@@ -1,0 +1,89 @@
+{
+    [
+        \"@context\": \"http\"@context\": \"http: //schema.org\",
+        \"@type\": \"Organization\",
+        \"orgtype\": \"Corporation\",
+        \"name\": \"JurisdeskBusinessWebDevelopmentInc.\",
+        \"url\": \"http: //www.jurisdesk.com\",
+        \"description\": \"JurisdeskHeadquartersislocatedinLewesDelaware.OurmainofficeislocatedinPhiladelphia,
+        Pa.Ourservicesincludebusinesswebdevelopmentandcontentmanagementandtraining.\",
+        \"street\": \"16192CoastalHighway\",
+        \"city\": \"Lewes\",
+        \"state\": \"DE\",
+        \"postalcode\": \"18858\"\"country\": \"US\",
+        \"email\": \"info@jurisdesk.com\",
+        \"phone\": \"1-267-912-2620\",
+        \"fax\": \"1-215-787-0112\"
+
+        \"@context\": \"http: //schema.org\",
+        \"@type\": \"Organization\",
+        \"orgtype\": \"Corporation\",
+        \"name\": \"JurisdeskLLC\",
+        \"url\": \"http: //www.jurisdesk.com\",
+        \"sameAs\": [
+            \"https: //www.facebook.com/jamesebarlow\",
+            \"https: //instagram.com/jurisdesk\",
+            \"https: //www.facebook.com/jurisdesk\",
+            \"https: //www.linkedin.com/jurisdesk/\",
+            \"https: //www.linkedin.com/company/jurisdesk-business-web-development/\",
+            \"https: //www.linkedin.com/in/jurisdesk/\",
+            \"https: //jurisdesk.tumblr.com/\",
+            \"https: //twitter.com/jurisdesk\",
+            \"https: //www.pinterest.com/jurisdesk/\",
+            \"https: //plus.google.com/+jurisdeskinc/about/\"
+        ]
+    }{
+        \"@context\": \"http: //schema.org\",
+        \"@type\": \"Person\",
+        \"name\": \"JamesBarlow\",
+        \"url\": \"http: //www.jurisdesk.com/about-me/\",
+        \"sameAs\": [
+            \"http: //www.jurisdesk.com\",
+            \"https: //www.facebook.com/jamesebarlow\",
+            \"https: //instagram.com/jurisdesk\",
+            \"https: //www.facebook.com/jurisdesk\",
+            \"https: //www.linkedin.com/jurisdesk/\",
+            \"https: //www.linkedin.com/company/jurisdesk-business-web-development/\",
+            \"https: //www.linkedin.com/in/jurisdesk/\",
+            \"https: //jurisdesk.tumblr.com/\",
+            \"https: //twitter.com/jurisdesk\",
+            \"https: //www.pinterest.com/jurisdesk/\",
+            \"https: //plus.google.com/+jurisdeskinc/about/\"
+        ]
+    }{
+        \"@context\": \"http: //schema.org\",
+        \"@type\": \"Organization\",
+        \"orgtype\": \"LocalBusiness\",
+        \"name\": \"JurisdeskBusinessWebDevelopment.\",
+        \"url\": \"http: //www.jurisdesk.com\",
+        \"description\": \"WelcometoJurisdesk,
+        locatedinPhiladelphiaPA.Wearetheregion'sleadingbusinesswebdevelopmentcompanyforstart-upsandsmallbusinessowners.\",
+        \"street\": \"1921MorseStreet,
+        SuiteA\",
+        \"city\": \"Philadelphia\",
+        \"state\": \"PA\",
+        \"postalcode\": \"19121\"\"country\": \"US\",
+        \"email\": \"info@jurisdesk.com\",
+        \"phone\": \"1-267-912-2620\",
+        \"fax\": \"1-215-787-0112\"{
+            \"@context\": \"http: //schema.org\",
+            \"@type\": \"product\",
+            \"url\": https: //www.jurisdesk.com/shop/mobile-friendly-business-web-development/\"Description\": \"Ourspecialtyiscreatingmobilefriendlywebsitesandmobileapplicationsforsmallbusinessownersandstart-ups.Thestandardpackageincludesa5pageSEOoptimizedwebsiteforyourbusiness.\",
+            \"brand\": \"JurisdeskWebDesignStudios\",
+            \"model\": \"Standard\",
+            \"prod_id\": \"mfwd-std\",
+            \"single_rating\": \"5\"\"agg_rating\": 5\"price\": $299.99\"condition\": New\"manfu\": \"JurisdeskBusinessWebDevelopmentInc.\"
+        }{
+            \"@context\": \"http: //schema.org\",
+            \"@type\": \"product\",
+            \"url\": https: //www.jurisdesk.com/shop/mobile-friendly-business-web-development/\"Description\": \"OurultimatedesignpackageincludesaSEOoptimizedwebsiteforyourbusiness,
+            customanalytics,
+            ablogsetup,
+            2professionalblogarticles,
+            cacheingconfiguration,
+            andthesetupofacontentdeliverynetworktomakeyoursitefastglobally.\",
+            \"brand\": \"JurisdeskWebDesignStudios\",
+            \"model\": \"Ultimate\",
+            \"prod_id\": \"mfwd-seo-ultimate\",
+            \"single_rating\": \"5\"\"agg_rating\": \"5\"\"price\": $999.99\"condition\": New\"manfu\": \"JurisdeskBusinessWebDevelopmentInc.\"
+        }"
